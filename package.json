@@ -39,7 +39,10 @@
     "react-native-screens": "~4.1.0",
     "react-native-web": "~0.19.13",
     "react-native-webview": "13.12.4",
-    "expo-image": "~2.0.0"
+    "expo-image": "~2.0.0",
+    "expo-image-picker": "~16.0.2",
+    "react-native-view-shot": "~4.0.0",
+    "expo-media-library": "~17.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
